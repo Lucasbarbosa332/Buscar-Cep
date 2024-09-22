@@ -8,3 +8,4 @@ Mini projeto em Java para sistemas desktop (Windows, Linux ou MAC) que busca aut
 # instruções para instalação e uso do aplicativo
 
 1.Ter o Java versão 17 ou superior instalado, no exemplo usei a versão openJDK 21 LTS que pode ser obtida no link indicado. Na instalação selecione todos os recursos conforme indicado na imagem.
+ <img width=60% src=""></img>
